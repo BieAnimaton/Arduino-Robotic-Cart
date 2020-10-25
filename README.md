@@ -4,7 +4,7 @@ This is project of an Arduino about a Robotic cart.
 
 ## Notes :books:
 - Responsive project to ambient.
-- Train eletronics habilities.
+- Practice eletronics skills.
 
 ## Components :point_up:
 - Arduino Uno x1.
