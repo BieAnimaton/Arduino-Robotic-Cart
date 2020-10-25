@@ -1,6 +1,6 @@
 # Arduino-Robot-Cart
 
-This is project of an Arduino about a Robot cart.
+This is project of an Arduino about a Robotic cart.
 
 ## Notes :books:
 - Responsive project to ambient.
