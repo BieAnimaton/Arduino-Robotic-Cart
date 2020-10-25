@@ -1,4 +1,4 @@
-# Arduino-Robot-Cart
+# Arduino-Robotic-Cart
 
 This is project of an Arduino about a Robotic cart.
 
