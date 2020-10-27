@@ -13,6 +13,8 @@ This is project of an Arduino about a Robotic cart.
 
 ![robozinho 5](https://user-images.githubusercontent.com/52220244/97282123-0d3aaf00-181d-11eb-8d3b-dd156c83e0bd.jpg)
 
+![robozinho 7](https://user-images.githubusercontent.com/52220244/97283945-352b1200-181f-11eb-8fd8-8e37d3536771.gif)
+
 ## Components :point_up:
 - Arduino Uno x1.
 - Ultrassonic sensor x1.
